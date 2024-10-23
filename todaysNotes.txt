@@ -1,0 +1,25 @@
+3 pronged
+
+HTML - skeletal structure of our page, including content
+CSS  - describes the appearance and style of our webpage
+Javascript - this is what makes webpages dynamic, adds interactivity
+
+
+h1 - h5 - our headers
+ol/ul - contains li's, comes with default styles(numbered or bulletpoints)
+a - anchor tags, for linking to other parts of our webpage or to other webpages entirely
+buttons - we will discuss further on Wednesday
+
+
+Extensions needed: 
+- Live server (author: Ritwick Dey)
+- Prettier - Code formatter (author: Prettier)
+
+To configure Prettier, search for 2 settings
+- Default formatter (change to prettier)
+- Format on save (check this box)
+
+
+shortcuts:
+Left CTRL + backtick (opens terminal)
+Left CTRL + shift + x (opens extensions)
