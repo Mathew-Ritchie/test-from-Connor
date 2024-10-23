@@ -1,3 +1,33 @@
-div {
-  background-color: coral;
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#top-banner {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  > img {
+    width: 200px;
+  }
+  > h5 {
+    background-color: lightyellow;
+    padding: 5px;
+    border-top: 1px solid orange;
+    color: darkgreen;
+    margin-bottom: 50px;
+  }
+}
+
+#main-content {
+  text-align: center;
+  margin: 0 700px;
+}
+
+#section-one {
+  > img {
+    border-radius: 15px;
+    /* change first 5px value to 0 to remove shadow on right, or second one to remove bottom shadow */
+    box-shadow: 5px 5px 5px grey;
+  }
 }

@@ -23,3 +23,24 @@ To configure Prettier, search for 2 settings
 shortcuts:
 Left CTRL + backtick (opens terminal)
 Left CTRL + shift + x (opens extensions)
+Left CTRL + Z (removes last thing you typed/changed) !!!DO NOT HOLD IT DOWN, PLEASE ONLY PRESS
+
+git init
+git remote add origin (url)
+git add .
+git commit -m "message"
+git push origin main
+
+https://www.youtube.com/watch?v=hwP7WQkmECE - great quick recap on Git, highly recommend rest of Fireships videos for quick intros to web dev concepts
+
+With HTML elements/nodes, we can add something called an ID or a class
+# for ID when targeting in CSS, and . for classes
+
+if you type lorem(a number heree), it will generate random latin
+
+
+TGIF 
+Think
+Google (google is your best friend)
+Inspect
+Facilitator
