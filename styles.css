@@ -14,7 +14,7 @@ body {
     background-color: lightyellow;
     padding: 5px;
     border-top: 1px solid orange;
-    color: darkgreen;
+    color: rgb(3, 62, 3);
     margin-bottom: 50px;
   }
 }
@@ -50,7 +50,8 @@ body {
 
 #feature-link-heading {
   padding: 0px 0px 0px 20px;
-  color: darkorange;
+  color: rgb(191, 107, 4);
+  font-weight: normal;
   
 }
 
@@ -67,7 +68,17 @@ body {
  border-bottom: 1px solid turquoise;
  padding-bottom: 20px;
  font-weight: normal;
- 
+ margin: 30px 0px 30px 0px;
+}
+
+.unordered-list {
+   >li {
+    margin: 20px 0px;
+   }
+  }
+
+#ordered-list {
+font-weight: bold;
 }
 
 #final-link {
